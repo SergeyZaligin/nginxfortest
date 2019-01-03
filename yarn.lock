@@ -209,6 +209,10 @@ etag@~1.8.1:
   version "1.8.1"
   resolved "https://registry.yarnpkg.com/etag/-/etag-1.8.1.tgz#41ae2eeb65efa62268aebfea83ac7d79299b0887"
 
+express-robots-txt@^0.4.0:
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/express-robots-txt/-/express-robots-txt-0.4.0.tgz#8717d8772b0d6735bb9ed0bd651c4bcd3ecf7e89"
+
 express@^4.16.4:
   version "4.16.4"
   resolved "https://registry.yarnpkg.com/express/-/express-4.16.4.tgz#fddef61926109e24c515ea97fd2f1bdbf62df12e"
